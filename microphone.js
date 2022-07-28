@@ -103,5 +103,7 @@ function volumeAudioProcess(event) {
   document.getElementById('move16').style.paddingLeft = parseFloat(distance * Math.random() * 10000).toFixed(2) + 'px';
   document.getElementById('move17').style.paddingRight = parseFloat(distance * Math.random() * 10000).toFixed(2) + 'px';
   document.getElementById('move18').style.paddingLeft = parseFloat(distance * Math.random() * 10000).toFixed(2) + 'px';
+//   Change font size with volume
+//   document.getElementById('hello').style.fontSize = parseFloat(distance * Math.random() * 50).toFixed(2) + 'em';
 }
 

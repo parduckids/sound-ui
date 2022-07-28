@@ -9,6 +9,15 @@ button{
 .intensity{
     font-size: 1.2em;
 }
+/* change font-size with volume */
+/* #hello{
+    z-index: 1;
+    position: relative;
+} */
+
+#hello{
+    font-size: 1.2em;
+}
 @media (min-width: 501px) and (max-width: 1000px){
     .animation{
         position: relative;
