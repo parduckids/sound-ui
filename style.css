@@ -33,7 +33,7 @@ button{
     .animation{
         position: relative;
         padding-top: 207px !important;
-        margin-top:47%; 
+        margin-top:47% !important; 
     }
     .objects{
         box-shadow: 0px 0px 0px black;
