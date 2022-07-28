@@ -33,6 +33,11 @@ button{
 
     }
 }
+footer{
+    position: fixed;
+    bottom:0;
+    text-align: center;
+}
 .animation{
     padding-top: 100px;
     margin-top: 10%;
